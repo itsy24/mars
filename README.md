@@ -1,5 +1,5 @@
 # mars
-## Project : Mars 
+## Project : Website Scrapping 
 
 ### Program : Python, Beautiful Soup, Jupyter Notebook
 
